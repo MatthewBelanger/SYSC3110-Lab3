@@ -19,4 +19,7 @@ public class AddressBook {
         this.addressBook.remove(index);
     }
 
+    public static void main(String[] args) {
+        System.out.println("Address Book");
+    }
 }
