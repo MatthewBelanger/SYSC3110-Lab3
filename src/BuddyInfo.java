@@ -20,5 +20,6 @@ public class BuddyInfo {
     public static void main(String[] args) {
         BuddyInfo buddy = new BuddyInfo("Homer", "0", 0);
         System.out.println("Hello " + buddy.getName());
+        //Branch change
     }
 }
